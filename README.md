@@ -14,7 +14,7 @@ Economist and software developer from Ethiopia, building digital tools for local
 
 
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
  
 
@@ -39,9 +39,6 @@ Economist and software developer from Ethiopia, building digital tools for local
  
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-
-
 ## Skills
 
 - Full-stack web apps (Node.js, Express, PostgreSQL)
